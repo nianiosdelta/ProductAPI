@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "secrets1": {
+      "type": "secrets"
+    },
+    "sqlite1": {
+      "type": "sqlite",
+      "connectionId": "C:::Users::Teachers::NIANIOS::Products.db",
+      "dynamicId": null
+    }
+  }
+}
